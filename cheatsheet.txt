@@ -15,6 +15,8 @@ Razor lets you add C# code directly into your HTML markup.
 
 # OnInitialized() method is called once after the page is loaded
 
+# private void UpdateValue(ChangeEventArgs e) is a Change event handler. This can be hooked up in the HTML with i.e. <input type="range" @onchange="UpdateValue"" />
+
 # While loop does its TEST FIRST, then runs its statements only if true
 
 # do/while runs the STATEMENT FIRST, then runs the test.
