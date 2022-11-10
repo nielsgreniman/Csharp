@@ -1,0 +1,15 @@
+/Users/nga10/Documents/Csharp/PickRandomCards/bin/Debug/net7.0/PickRandomCards
+/Users/nga10/Documents/Csharp/PickRandomCards/bin/Debug/net7.0/PickRandomCards.deps.json
+/Users/nga10/Documents/Csharp/PickRandomCards/bin/Debug/net7.0/PickRandomCards.runtimeconfig.json
+/Users/nga10/Documents/Csharp/PickRandomCards/bin/Debug/net7.0/PickRandomCards.dll
+/Users/nga10/Documents/Csharp/PickRandomCards/bin/Debug/net7.0/PickRandomCards.pdb
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.csproj.AssemblyReference.cache
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.AssemblyInfoInputs.cache
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.AssemblyInfo.cs
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.csproj.CoreCompileInputs.cache
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.dll
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/refint/PickRandomCards.dll
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.pdb
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/PickRandomCards.genruntimeconfig.cache
+/Users/nga10/Documents/Csharp/PickRandomCards/obj/Debug/net7.0/ref/PickRandomCards.dll
