@@ -40,6 +40,20 @@
         </div>
     </div>
 
+    <div class="row mt-2">
+        <div class="col-sm-6">Pick a date:</div>
+        <div class="col-sm-6">
+            <input type="date" @onchange="UpdateValue" />
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-sm-6">Pick a color:</div>
+        <div class="col-sm-6">
+            <input type="color" @onchange="UpdateValue" />
+        </div>
+    </div>
+
     <div class="row mt-5">
         <h2>
             Here's the value: <strong>@DisplayValue</strong>
