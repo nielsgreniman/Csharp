@@ -1,0 +1,23 @@
+.NET Core console apps are cross-platform apps that use text input and output. 
+Blazor WebAssembly lets you build web applications using C# code and HTML/CSS.
+Razor lets you add C# code directly into your HTML markup. 
+
+### HTML
+
+# The class="row" attribute tells the page to render everything between <div> </div> in a single row.
+
+# input="range" is an input tag with a type attribute that determines what kind of input controller appears on the screen.
+
+
+### C#code
+
+# @code {}		// use @ to embed C# code
+
+# OnInitialized() method is called once after the page is loaded
+
+# While loop does its TEST FIRST, then runs its statements only if true
+
+# do/while runs the STATEMENT FIRST, then runs the test.
+
+# for loops run a statement AFTER each loop
+
