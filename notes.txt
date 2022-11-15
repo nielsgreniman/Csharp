@@ -24,3 +24,31 @@ Razor lets you add C# code directly into your HTML markup.
 
 # for loops run a statement AFTER each loop
 
+# Use the name of a class to declare an array of instances of that class:
+	public class Level {
+		Enemy[] enemyArray = new Enemy[5];
+
+	eller
+
+	for (int i = 0; i < 3; i++)
+	{
+		Enemy enemy = new Enemy();
+		enemyArray[i] = enemy;	
+	}
+
+	eller 
+
+	foreach (Enemy enemy in enemyArray)
+	{
+		// code that calls the Enemy methods
+	}
+
+# Methods are what an object DOES.
+# Fields are what an object KNOWS.
+# Behaviour is defined by its methods, and it uses fields to keep track of its states.
+
+# Using the 'static' keyword to declare a field or method in a class, you don't 
+  need an instance of that class to access it.
+  When a field is static, there's only one copy of it, and it's shared by all instances!
+
+
