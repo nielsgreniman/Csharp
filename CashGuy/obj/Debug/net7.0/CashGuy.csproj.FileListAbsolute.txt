@@ -1,0 +1,15 @@
+/Users/nga10/Documents/Csharp/CashGuy/bin/Debug/net7.0/CashGuy
+/Users/nga10/Documents/Csharp/CashGuy/bin/Debug/net7.0/CashGuy.deps.json
+/Users/nga10/Documents/Csharp/CashGuy/bin/Debug/net7.0/CashGuy.runtimeconfig.json
+/Users/nga10/Documents/Csharp/CashGuy/bin/Debug/net7.0/CashGuy.dll
+/Users/nga10/Documents/Csharp/CashGuy/bin/Debug/net7.0/CashGuy.pdb
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.csproj.AssemblyReference.cache
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.AssemblyInfoInputs.cache
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.AssemblyInfo.cs
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.csproj.CoreCompileInputs.cache
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.dll
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/refint/CashGuy.dll
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.pdb
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/CashGuy.genruntimeconfig.cache
+/Users/nga10/Documents/Csharp/CashGuy/obj/Debug/net7.0/ref/CashGuy.dll

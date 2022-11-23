@@ -1,0 +1,15 @@
+/Users/nga10/Documents/Csharp/CasinoGuy/bin/Debug/net7.0/CasinoGuy
+/Users/nga10/Documents/Csharp/CasinoGuy/bin/Debug/net7.0/CasinoGuy.deps.json
+/Users/nga10/Documents/Csharp/CasinoGuy/bin/Debug/net7.0/CasinoGuy.runtimeconfig.json
+/Users/nga10/Documents/Csharp/CasinoGuy/bin/Debug/net7.0/CasinoGuy.dll
+/Users/nga10/Documents/Csharp/CasinoGuy/bin/Debug/net7.0/CasinoGuy.pdb
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.csproj.AssemblyReference.cache
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.AssemblyInfoInputs.cache
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.AssemblyInfo.cs
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.csproj.CoreCompileInputs.cache
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.dll
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/refint/CasinoGuy.dll
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.pdb
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/CasinoGuy.genruntimeconfig.cache
+/Users/nga10/Documents/Csharp/CasinoGuy/obj/Debug/net7.0/ref/CasinoGuy.dll
