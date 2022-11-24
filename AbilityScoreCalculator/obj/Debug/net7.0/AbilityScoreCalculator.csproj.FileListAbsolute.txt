@@ -1,0 +1,15 @@
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/bin/Debug/net7.0/AbilityScoreCalculator
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/bin/Debug/net7.0/AbilityScoreCalculator.deps.json
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/bin/Debug/net7.0/AbilityScoreCalculator.runtimeconfig.json
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/bin/Debug/net7.0/AbilityScoreCalculator.dll
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/bin/Debug/net7.0/AbilityScoreCalculator.pdb
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.csproj.AssemblyReference.cache
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.AssemblyInfoInputs.cache
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.AssemblyInfo.cs
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.csproj.CoreCompileInputs.cache
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.dll
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/refint/AbilityScoreCalculator.dll
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.pdb
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/AbilityScoreCalculator.genruntimeconfig.cache
+/Users/nga10/Documents/Csharp/AbilityScoreCalculator/obj/Debug/net7.0/ref/AbilityScoreCalculator.dll
